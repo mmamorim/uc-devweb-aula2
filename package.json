@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/mmamorim/uc-devweb-aula2/issues"
   },
-  "homepage": "https://github.com/mmamorim/uc-devweb-aula2#readme"
+  "homepage": "https://github.com/mmamorim/uc-devweb-aula2#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.3"
+  }
 }
